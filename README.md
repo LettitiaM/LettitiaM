@@ -3,13 +3,11 @@
 
 **LettitiaM/LettitiaM** Loves working with Data and Analysing Data
 
-
-- 🔭 I’m Data Science/Analyst currently working on backend development
-- 🌱 I’m Junior Software Developer and team Lead at the Shaper
-- 👯 I’m looking to collaborate on Data Science projects
+- 🌱 I’m Junior Software Developer and team Lead
 - 💬 Ask me about anything data related
 - 📫 How to reach me:
   lettitiatlaleng@gmail.com
+  www.linkedin.com/in/lettitia-mokubung-6412b5180
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: 
 
